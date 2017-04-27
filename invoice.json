@@ -1,0 +1,57 @@
+{
+	"projectName": ,
+	"type": ,
+	"clientDetails": {
+		"name": ,
+		"address": ,
+		"email": ,
+		"siteAddress": ,
+		"date": ,
+		"invoiceNo": 
+	},
+	"invoiceDescription": [
+		{
+			"itemName": ,
+			"rate":,
+			"unit":,
+			"quantity":,
+			"amount":
+		}
+	],
+	"subAmount":,
+	"grandTotal":,
+	"advanceAmount":,
+	"dueAmount":,
+	"status":,
+	"isActive":,
+	"_subscriberAccount":
+}
+
+
+{
+	"projectName": "Construction -01",
+	"type":"Stock-01 Invoice" ,
+	"clientDetails": {
+		"name": "ABC Construction pvt ltd" ,
+		"address":"24/3 S pliuyhb" ,
+		"email": "abc@gmail.com",
+		"siteAddress":"524/p kiruhgurhgvb nbvjhvgrwhg" ,
+		"date": "21/02/2017",
+		"invoiceNo":"INVC6786" 
+	},
+	"invoiceDescription": [
+		{
+			"itemName": "Pipes",
+			"itemCode": "pipes3019",
+			"rate":15.06,
+			"unit":50,
+			"quantity": 20
+		}
+	],
+	"subAmount":0,
+	"advanceAmount":0,
+	"dueAmount":0,
+	"status":"pending",
+	"isActive": true,
+	"_subscriberAccount":"58a586ec7cc2b82eca188c19"
+}
